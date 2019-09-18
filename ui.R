@@ -21,7 +21,7 @@ shinyUI(dashboardPage(
       menuItem("Methods Review", tabName = "MethodReview", icon = icon("archive")),
       menuItem("References View", tabName = "ReferenceView", icon = icon("folder-open")),
       menuItem("MetaExperiments", tabName = "MetaExperiments", icon = icon("bar-chart-o")),
-      menuItem("科技部申請計劃書", tabName = "Proposal", icon = icon("book"))
+      menuItem("Proposal", tabName = "Proposal", icon = icon("book"))
     )
   ),
   
